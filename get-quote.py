@@ -1,4 +1,4 @@
-def main():
+def primary():
    print("Keep it logically awesome.")
   python get-quote.py
     f = open("quotes.txt")
@@ -7,9 +7,9 @@ def main():
 
   print(quotes)
 
-  if__name__== "__main__":
-  main()
-  git add get-quote.py
-  git commit -m "Hello World"
-  git push
+  if __name__== "__main__":
+  primary()
+    
+  
+  
   
